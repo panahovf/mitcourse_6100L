@@ -10,6 +10,7 @@ yearly_salary = float(input("Enter yearly salary: "))
 portion_saved = float(input("Savings rate (percentage 0 to 1): "))
 cost_of_dream_home = float(input("Enter home price: "))
 
+
 #########################################################################
 ## Initialize other variables you need (if any) for your program below ##
 #########################################################################
@@ -19,6 +20,7 @@ r = 0.05
 
 downpayment = cost_of_dream_home * portion_down_payment
 months = 0
+
 
 ###############################################################################################
 ## Determine how many months it would take to get the down payment for your dream home below ## 
