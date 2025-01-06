@@ -11,7 +11,7 @@
 # directory
 
 import os
-directory = r'C:\Users\panah\OneDrive\Desktop\Work\1 - MIT - Course 6.100L'
+directory = r'C:\Users\panah\OneDrive\Desktop\Work\1 - MIT - Courses'
 os.chdir(directory)
 del directory
 
